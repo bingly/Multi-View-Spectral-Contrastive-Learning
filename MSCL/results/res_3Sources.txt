@@ -1,0 +1,1 @@
+MSCL,95.27,88.81,89.20,92.06,12.043447 alpha=10 ker=cosine KNN=8 Batch=169 Seed=50 

@@ -1,0 +1,12 @@
+dataset: 3Sources
+
+learning_rate: 0.0005
+batch_size: 169
+seed: 50
+con_epochs: 201
+
+dims: [256, 512, 1024]
+alpha: 10
+beta: 0.01
+knn: 8
+batch_size_set: [169]
