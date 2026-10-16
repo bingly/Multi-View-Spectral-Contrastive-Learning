@@ -4,7 +4,7 @@ PyTorch implementation of **Multi-View Spectral Contrastive Learning** (IEEE TPA
 
 MSCL unifies contrastive learning and spectral clustering from a spectral-operator perspective. It jointly optimizes multiple view-specific spectral embeddings and a consensus spectral embedding, enabling principled multi-view spectral fusion in an end-to-end framework.
 
-![](.\motivation.png)
+![](motivation.png)
 
 ## Requirements
 
